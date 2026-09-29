@@ -1,0 +1,104 @@
+developer,period,metric,value,unit,source_file,pdf_page,note
+Prestige,Q1 FY27,presales_Total,65793,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_Hyderabad,32431,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_Bengaluru,17953,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_Mumbai,7763,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_NCR,4410,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_Chennai,2850,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,presales_Others,386,INR mn,prestige_Q1FY27_presentation.pdf,8,
+Prestige,Q1 FY27,sales_Prestige Golden Grove,29913,INR mn,prestige_Q1FY27_presentation.pdf,9,
+Prestige,Q1 FY27,stock_area_Hyderabad,7.5,mn sft,prestige_Q1FY27_presentation.pdf,10,
+Prestige,Q1 FY27,stock_value_Hyderabad,89953,INR mn,prestige_Q1FY27_presentation.pdf,10,
+Prestige,Q1 FY27,stock_value_Total,245180,INR mn,prestige_Q1FY27_presentation.pdf,10,
+Prestige,Q1 FY27,launch_tda_Prestige Golden Grove,14.3,mn sft,prestige_Q1FY27_presentation.pdf,21,Mid-Segment
+Prestige,Q1 FY27,launch_gdv_Prestige Golden Grove,95012,INR mn,prestige_Q1FY27_presentation.pdf,21,Mid-Segment
+Prestige,Q1 FY27,launch_tda_Prestige Rock Cliff,0.81,mn sft,prestige_Q1FY27_presentation.pdf,21,Luxury
+Prestige,Q1 FY27,launch_gdv_Prestige Rock Cliff,9093,INR mn,prestige_Q1FY27_presentation.pdf,21,Luxury
+Prestige,Q1 FY27,launch_tda_The Prestige Place,2.76,mn sft,prestige_Q1FY27_presentation.pdf,21,Mid-Segment
+Prestige,Q1 FY27,launch_gdv_The Prestige Place,20426,INR mn,prestige_Q1FY27_presentation.pdf,21,Mid-Segment
+Prestige,Q4 FY26,presales_Total,76973,INR mn,prestige_Q4FY26_presentation.pdf,11,
+Prestige,Q4 FY26,presales_Hyderabad,3871,INR mn,prestige_Q4FY26_presentation.pdf,11,
+Prestige,FY26,presales_Total,300245,INR mn,prestige_Q4FY26_presentation.pdf,11,
+Prestige,FY26,presales_Hyderabad,23821,INR mn,prestige_Q4FY26_presentation.pdf,11,
+Prestige,Q1 FY26,land_acres_Tellapur (Prestige Golden Grove),28,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q1 FY26,land_gdv_Tellapur (Prestige Golden Grove),95000,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q1 FY26,land_acres_Pulimamidi,37,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q1 FY26,land_gdv_Pulimamidi,2500,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q2 FY26,land_acres_Raidurg,11,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q2 FY26,land_gdv_Raidurg,23000,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q3 FY26,land_acres_Lakdaram,20,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q3 FY26,land_gdv_Lakdaram,2000,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q3 FY26,land_acres_Rajendra Nagar,4,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q3 FY26,land_gdv_Rajendra Nagar,13800,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q4 FY26,land_acres_Kompally,7,acres,prestige_Q4FY26_presentation.pdf,27,Hyderabad land added
+Prestige,Q4 FY26,land_gdv_Kompally,10000,INR mn,prestige_Q4FY26_presentation.pdf,27,Tentative GDV
+Prestige,Q3 FY26,presales_Total,41836,INR mn,prestige_Q3FY26_performance_update.pdf,2,
+Prestige,Q3 FY26,hyderabad_share_printed,16,%,prestige_Q3FY26_performance_update.pdf,2,
+Prestige,Q2 FY26,presales_Total,60173,INR mn,prestige_Q2FY26_performance_update.pdf,2,
+Prestige,Q2 FY26,hyderabad_share_printed,11,%,prestige_Q2FY26_performance_update.pdf,2,
+Godrej,Q1 FY27,booking_Bengaluru,3798,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_MMR,1805,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_NCR,1538,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_Pune,939,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_Hyderabad,410,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_Others,161,INR cr,godrej_Q1FY27_presentation.pdf,15,
+Godrej,Q1 FY27,booking_Total,8651,INR cr,godrej_Q1FY27_press_release.pdf,2,
+Godrej,Q1 FY27,booking_area_Hyderabad,0.4,mn sft,godrej_Q1FY27_presentation.pdf,15,"as printed, 1 dp"
+Godrej,Q1 FY27,booking_Godrej Brooklyn Avenue,317,INR cr,godrej_Q1FY27_presentation.pdf,16,
+Godrej,Q1 FY27,booking_area_Godrej Brooklyn Avenue,0.26,mn sft,godrej_Q1FY27_presentation.pdf,16,
+Godrej,Q1 FY27,booking_Godrej Regal Pavilion,98,INR cr,godrej_Q1FY27_presentation.pdf,16,
+Godrej,Q1 FY27,booking_area_Godrej Regal Pavilion,0.11,mn sft,godrej_Q1FY27_presentation.pdf,16,
+Godrej,30 Jun 2026,total_saleable_Godrej Regal Pavilion,4.13,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,gpl_share_Godrej Regal Pavilion,4.13,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,launched_Godrej Regal Pavilion,3.29,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,sold_Godrej Regal Pavilion,2.83,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,booking_value_ptd_Godrej Regal Pavilion,2425,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,collection_ptd_Godrej Regal Pavilion,707,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,total_saleable_Godrej Madison Avenue,1.25,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,gpl_share_Godrej Madison Avenue,1.15,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,launched_Godrej Madison Avenue,0.96,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,sold_Godrej Madison Avenue,0.93,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,booking_value_ptd_Godrej Madison Avenue,1109,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,collection_ptd_Godrej Madison Avenue,321,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,total_saleable_Godrej Brooklyn Avenue,3.06,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,gpl_share_Godrej Brooklyn Avenue,3.06,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,launched_Godrej Brooklyn Avenue,2.66,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,sold_Godrej Brooklyn Avenue,0.26,mn sft,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,booking_value_ptd_Godrej Brooklyn Avenue,317,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,collection_ptd_Godrej Brooklyn Avenue,20,INR cr,godrej_Q1FY27_presentation.pdf,31,"Project register, Hyderabad"
+Godrej,30 Jun 2026,total_saleable_Neopolis,2.55,mn sft,godrej_Q1FY27_presentation.pdf,31,Project register; not yet launched
+Godrej,Q4 FY26,booking_Hyderabad,389,INR cr,godrej_Q4FY26_presentation.pdf,30,
+Godrej,Q4 FY26,booking_area_Hyderabad,0.43,mn sft,godrej_Q4FY26_presentation.pdf,30,
+Godrej,FY26,booking_MMR,10312,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,booking_Bengaluru,8801,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,booking_NCR,7412,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,booking_Pune,3659,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,booking_Hyderabad,2360,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,booking_Others,1627,INR cr,godrej_Q4FY26_press_release.pdf,3,
+Godrej,FY26,hyderabad_launch_area,3.3,mn sft,godrej_Q4FY26_presentation.pdf,15,
+Godrej,FY26,hyderabad_launch_value,2800,INR cr,godrej_Q4FY26_presentation.pdf,15,
+Godrej,FY26,booking_area_Godrej Regal Pavilion,2.73,mn sft,godrej_Q4FY26_presentation.pdf,15,
+Godrej,FY26,booking_Godrej Regal Pavilion,2328,INR cr,godrej_Q4FY26_presentation.pdf,15,
+Godrej,FY26,bd_area_Neopolis (Kokapet),2.54,mn sft,godrej_Q4FY26_presentation.pdf,16,"Expected booking value, company estimate"
+Godrej,FY26,bd_value_Neopolis (Kokapet),4150,INR cr,godrej_Q4FY26_presentation.pdf,16,"Expected booking value, company estimate"
+Godrej,FY26,bd_area_Kukatpally,2.89,mn sft,godrej_Q4FY26_presentation.pdf,16,"Expected booking value, company estimate"
+Godrej,FY26,bd_value_Kukatpally,3800,INR cr,godrej_Q4FY26_presentation.pdf,16,"Expected booking value, company estimate"
+Prestige,Q1 FY27,avg_realisation_apartments,11193,INR/sft,prestige_Q1FY27_performance_update.pdf,2,"Company-wide, apartments"
+Godrej,Q1 FY27,booking_area_Total,6.2,mn sft,godrej_Q1FY27_press_release.pdf,2,Company-wide
+Godrej,Q4 FY26,booking_area_Godrej Regal Pavilion,0.42,mn sft,godrej_Q4FY26_presentation.pdf,31,
+Godrej,Q4 FY26,booking_Godrej Regal Pavilion,380,INR cr,godrej_Q4FY26_presentation.pdf,31,
+Brigade,Q1 FY27,presales_Total,1054,INR cr,brigade_Q1FY27_presentation.pdf,12,
+Brigade,Q1 FY27,hyderabad_share_printed,14,%,brigade_Q1FY27_presentation.pdf,12,Read from pie chart; city split printed 58/28/14
+Brigade,Q1 FY27,avg_realisation_total,14256,INR/sft,brigade_Q1FY27_presentation.pdf,6,
+Brigade,Q1 FY27,upcoming_launch_area_Hyderabad,3.95,mn sft,brigade_Q1FY27_presentation.pdf,10,
+Brigade,30 Jun 2026,land_acres_Hyderabad,22,acres,brigade_Q1FY27_presentation.pdf,28,
+Brigade,30 Jun 2026,land_project_area_Hyderabad,6,mn sft,brigade_Q1FY27_presentation.pdf,28,
+Brigade,30 Jun 2026,portfolio_est_sale_value,23363,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_balance_collection,16799,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_est_total_cost,14874,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_cost_incurred,5900,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_balance_cost,8974,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_net_operating_cf,7309,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_borrowings,516,INR cr,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_area_sold_to_date,14.01,mn sft,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
+Brigade,30 Jun 2026,portfolio_company_share_saleable,19.81,mn sft,brigade_Q1FY27_presentation.pdf,13,Brigade Enterprises ongoing projects (not Hyderabad-only)
